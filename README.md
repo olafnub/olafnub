@@ -12,6 +12,12 @@ I'm learning to become a full-stack developer, and with a vision to become a blo
 * 🚀  I'm currently working on [The Odin Project](http://www.theodinproject.com)
 * 🧠  I'm learning JavaScript
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/olafnub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=olafnub&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 ### Skills
 
 
@@ -22,14 +28,3 @@ I'm learning to become a full-stack developer, and with a vision to become a blo
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/olafnub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/andy-li-65284220b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/olafnub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=olafnub&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
