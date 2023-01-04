@@ -12,10 +12,6 @@ I'm learning to become a full-stack developer, and with a vision to become a blo
 * 🚀  I'm currently working on [The Odin Project](http://www.theodinproject.com)
 * 🧠  I'm learning JavaScript
 
-### Badges
-
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/olafnub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=olafnub&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Skills
