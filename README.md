@@ -10,7 +10,7 @@ I'm learning to become a full-stack developer, and with a vision to become a blo
 * 🖥️  See my portfolio at [React-Portfolio](http://olafnub.github.io/React-Portfolio/)
 * ✉️  You can contact me at [andy.li@my.normandale.edu](mailto:andy.li@my.normandale.edu)
 * 🚀  I'm currently working on [The Odin Project](http://www.theodinproject.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning JavaScript and Typescript
 
 ### Skills
 
