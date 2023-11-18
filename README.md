@@ -1,4 +1,4 @@
-Hi, I'm Andy, Junior @ The University Of Minnesota. Exp. Grad Date: Nay 2025
+Hi, I'm Andy, Junior @ The University Of Minnesota. Exp. Grad Date: May 2025
 
 Experience: Full-stack development
 Interested: Blockchain Development
