@@ -1,6 +1,12 @@
-Hi, I'm Andy, Junior @ The University Of Minnesota. Exp. Grad Date: May 2025
+## Hello! I'm Andy
 
-Experience: Full-stack development
-Interested: Blockchain Development
+I'm studying **Computer Science at the University of Minnesota**, expecting to graduate in **2026**.
 
-Working on Cardano-Natives, an e-commerce website selling clothes related to Cardano Projects
+😄 Pronouns: he/him
+💻 Projects:
+  - Full-stack "University Of Minnesota Blockchain Club"
+  - Full-Stack E-Commerce website "Cardano Natives"
+  - Front-end interactive flashcard "How to Study"
+💬 Talk to me about: Blockchain, Glee, and Self help books!
+📫 Reach out on: [LinkedIn](https://www.linkedin.com/in/andy-li-olafnub/) | [Email](mailto:li002488@umn.edu)
+I'm currently seeking a Spring/Summer 2024 internship! Feel free to reach out to me about any opportunities!
