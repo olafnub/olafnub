@@ -4,8 +4,9 @@ I'm studying **Computer Science at the University of Minnesota**, expecting to g
 
 - 😄 Pronouns: he/him
 - 💻 Projects:
-  - UMN Blockchain Club
+  - President @ UMN Blockchain Club
   - Full stack websites (React & Next)
-- 💬 Talk to me about: Blockchain, Glee, and Self help books!
+  - On the last episode of Hunter x hunter
+- 💬 Talk to me about: Anime, Audiobooks, and Web3!
 - 📫 Reach out on: [LinkedIn](https://www.linkedin.com/in/andy-li-olafnub/) | [Email](mailto:li002488@umn.edu) <br><br>
 I'm currently seeking **Fall/Spring 2024/2025** internship! Feel free to reach out to me about any opportunities! <br>Open to year-round part-times too!
