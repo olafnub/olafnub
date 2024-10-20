@@ -1,17 +1,6 @@
 ## Hello! I'm Andy
 
-  {
-      School: {
-        name: "University of Minnesta"
-        major: "Computer Science"
-        gradDate: "May 2026"
-      },
-      Projects: {
-        
-      }
-  }
-
-I'm studying **Computer Science at the University of Minnesota**, expecting to graduate in **2026**.
+    {I'm studying **Computer Science at the University of Minnesota**, expecting to graduate in **2026**.}
 
 - 😄 Pronouns: he/him
 - 💻 Projects:
