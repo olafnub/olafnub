@@ -9,5 +9,7 @@
         - Particpiated in Coinbase's Onchain Summer hackathon (worked with onchain transaction parsing)
         - Helped revamp UMN Blockchain landing page (from React -> Next.js components)
         - Finished Hunter x Hunter & Re:Zero
+
+    Seeking Spring & Summer 2025 internship!
         
 📫 Reach out on: [LinkedIn](https://www.linkedin.com/in/andy-li-olafnub/) | [Email](mailto:li002488@umn.edu) <br><br>
