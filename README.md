@@ -12,4 +12,4 @@
 
     Seeking Spring & Summer 2025 internship!
         
-📫 Reach out on: [LinkedIn](https://www.linkedin.com/in/andy-li-olafnub/) | [Email](mailto:li002488@umn.edu) <br><br>
+📫 Reach out on: [LinkedIn](https://www.linkedin.com/in/andyli2026/) | [Email](mailto:li002488@umn.edu) <br><br>
