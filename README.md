@@ -1,6 +1,6 @@
 ## Hello! I'm Andy
 
-    I'm studying **Computer Science at the University of Minnesota**, expecting to graduate on May 2026
+    I'm studying Computer Science at the University of Minnesota, expecting to graduate on May 2026
 
     😄 Pronouns: he/him
     
