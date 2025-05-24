@@ -1,6 +1,7 @@
 ## Currently working on
 
 📚 [BrainEater.io](https://braineater.io/) : A web3 curriculum with beginner friendly resources
+
 ❓ May spin back up WalletDiscover, used to track PnL on Base Chain without connecting wallet.
 
 ## About Me
