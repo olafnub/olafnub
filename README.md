@@ -1,6 +1,7 @@
 ## Currently working on
 
 📚 https://braineater.io : A web3 curriculum with beginner friendly resources
+🪙 https://x.com/useopi : Crypto index funds
 
 ❓ May spin back up WalletDiscover, track PnL on Base Chain w/o connecting wallet.
 
