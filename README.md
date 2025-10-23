@@ -8,7 +8,7 @@
 
 🔍 Growth @ University of Minnesota Blockchain Club
 
-🏫 Software enginner intern at Coinbase
+🏫 Incoming software engineer at Coinbase
 
 ## About Me
 
