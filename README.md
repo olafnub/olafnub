@@ -8,7 +8,7 @@
 
 🏫 Incoming software engineer at Coinbase
 
-❓ My not so healthy homework avoidment
+❓ And my not so healthy homework avoidment
 - May spin back up WalletDiscover, track PnL on Base Chain w/o connecting wallet.
 - Continue with Opi.Trade?
 - Revamp braineater.io
