@@ -1,6 +1,6 @@
 ## About Me
 
-🐼 I’m Andy (he/him) studying Computer Science at the **University of Minnesota**, graduating in May 2026. Feel free to reach out on linkedin : [https://www.linkedin.com/in/andyli2026/](https://www.linkedin.com/in/andyli2026/)
+🐼 I’m Andy (he/him) studying Computer Science at the **University of Minnesota**, graduating in May 2026. Feel free to reach out
 
 ## Currently working on
 
